@@ -1,6 +1,11 @@
-# 💫 About Me:
+# 💫 About Me  
 
-<br>**Hi there!** 👋 <br><br>💻 **I'm currently working on:** <br>- AI-powered **Textile Thread Count Estimation** 🧵 (TensorFlow, React) <br>- **Fingerprint Blood Group Detection** 🔬 (Deep Learning, Image Processing) <br><br>🤝 **I'm looking to collaborate on:** <br>- AI/ML research projects 🧠 <br>- Web development & full-stack applications 🌐 <br>- Blockchain, NFTs, and Crypto-based applications 🚀 <br><br>❓ **I'm looking for help with:** <br>- Improving deep learning model performance for medical imaging <br>- Optimizing smart contracts & NFT marketplaces <br><br>📖 **I'm currently learning:** <br>- Advanced **Computer Vision** for AI-driven applications <br>- Smart contract development & Web3 integration <br>- Optimizing **LLMs** for NLP tasks <br><br>💡 **Ask me about:** <br>- AI/ML, Deep Learning & Computer Vision 🧠 <br>- Full-stack development (React, Nextjs, Tailwind) 💻 <br>- Blockchain, NFTs & Web3 🚀 <br><br>😂 **Fun Fact:** <br>I once built a **multiplayer FPS game** where guns were **NFTs** you could trade! 🔫🎮 <br><br>---
+🚀 **Final-year AIML student | Web & Blockchain Enthusiast | Game Developer**  
+
+Passionate about **building the future**—whether it’s crafting seamless web experiences, exploring the depths of AI, or diving into the world of **crypto and blockchain**. I thrive on **first-principles thinking**, always questioning, innovating, and experimenting with **cutting-edge technologies**.  
+
+🎮 **From AI-powered apps to blockchain-driven games, I love turning ideas into reality!**  
+
 
 ## 🌐 Socials:
 
